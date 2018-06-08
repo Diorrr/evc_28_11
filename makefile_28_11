@@ -1,0 +1,2 @@
+all:
+	gcc -x c -std=c99 main_28_11.c sim_28_11.c evc_28_11.c -o evc -lm
